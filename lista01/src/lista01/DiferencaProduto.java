@@ -2,7 +2,7 @@ package lista01;
 
 import java.util.Scanner;
 
-public class diferencaProduto {
+public class DiferencaProduto {
 
 	public static void main(String[] args) {
 		float n1, n2, n3, n4, diferenca;
