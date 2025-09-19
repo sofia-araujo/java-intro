@@ -9,12 +9,12 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/sofia-araujo/java_intro?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/sofia-araujo/java-intro?style=flat-square" />
 </div>
 
 ------
