@@ -63,7 +63,7 @@ Para executar os códigos localmente, você precisará de:
 
 ### 4.1. Importando os Projetos
 
-1. Clone o repositório [Aulas Java](https://github.com/sofia-araujo/java-intro) dentro da pasta do *Workspace* do Eclipse/STS
+1. Clone o repositório [Java Intro](https://github.com/sofia-araujo/java-intro) dentro da pasta do *Workspace* do Eclipse/STS
 
 ```bash
 git clone https://github.com/sofia-araujo/java-intro.git
