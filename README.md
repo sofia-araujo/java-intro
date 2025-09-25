@@ -9,12 +9,12 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/sofia-araujo/java_intro?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/sofia-araujo/java_intro?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/sofia-araujo/java-intro?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/sofia-araujo/java-intro?style=flat-square" />
 </div>
 
 ------
@@ -63,7 +63,7 @@ Para executar os códigos localmente, você precisará de:
 
 ### 4.1. Importando os Projetos
 
-1. Clone o repositório [Aulas Java](https://github.com/sofia-araujo/java-intro) dentro da pasta do *Workspace* do Eclipse/STS
+1. Clone o repositório [Java Intro](https://github.com/sofia-araujo/java-intro) dentro da pasta do *Workspace* do Eclipse/STS
 
 ```bash
 git clone https://github.com/sofia-araujo/java-intro.git
@@ -100,6 +100,6 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 
 ##  Contato
 
-Desenvolvido por [**Rafael**](https://github.com/rafaelq80)
+Desenvolvido por [**Sofia**](https://github.com/sofia-araujo)
 Para dúvidas, sugestões ou colaborações, entre em contato via GitHub ou abra uma issue!
 
